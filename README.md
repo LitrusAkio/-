@@ -1,6 +1,6 @@
-# my-project
+# wheretogo
 
-> A Vue.js project
+> 很棒棒少年团Vue实战
 
 ## Build Setup
 
