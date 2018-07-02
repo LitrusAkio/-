@@ -10,4 +10,15 @@ npm install
 npm run dev
 ```
 
-使用过程中有问题可以问我。
+## 说明
+
+* 使用了Less来做css预处理。
+* 使用eslint来规范大家写的代码。
+* `vue-awesome-swipe`,
+`aixos`,
+`vuex`,
+`vue-router`,
+`better-scroll`
+都已安装完毕,install一下就可以了。
+
+使用愉快。
