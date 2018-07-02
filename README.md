@@ -14,9 +14,9 @@
 │   │   ├── images
 │   │   └── less
 │   ├── components // 组件目录
-│   │   ├── CityHeader.vue
-│   │   ├── HelloWorld.vue
-│   │   └── HomeHeader.vue
+│   │   ├── CityHeader.vue //城市头部
+│   │   ├── HelloWorld.vue // 系统示例文件
+│   │   └── HomeHeader.vue //首页头部
 │   ├── main.js //入口文件
 │   ├── router
 │   │   └── index.js //路由文件
